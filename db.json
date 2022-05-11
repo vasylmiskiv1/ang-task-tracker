@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doc",
-      "day": "something was typed here",
-      "reminder": true
+      "text": "asdfasdf",
+      "day": "2022-05-26",
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "text": "Doc 2",
-      "day": "something was typed here 2",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Doc 3",
-      "day": "something was typed here 2",
-      "reminder": true
+      "text": "asdfasdfasdf",
+      "day": "2022-05-23",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
